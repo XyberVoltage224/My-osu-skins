@@ -3,11 +3,11 @@
 
 All skins are made by yours truly (Xyber Voltage) unless stated otherwise. 
 
-This will be continuously updated as needed.  
-
 List created and maintained by yours truly as well.  
 
-Discord: Xyber Voltage#2683  
+This will be continuously updated as needed.  
+
+Discord: **Xyber Voltage#2683**  
 # [Project Blue Rose](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**  
 
