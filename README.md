@@ -1,7 +1,11 @@
 # Xyber Voltage osu skins
 **This is my repository for all the skins I use in this point-and-click rhythm game called osu! Hope you enjoy.**  
-All skins are made by yours truly (Xyber Voltage) unless stated otherwise.
-List created and maintained by yours truly as well.
+
+All skins are made by yours truly (Xyber Voltage) unless stated otherwise. 
+
+List created and maintained by yours truly as well.  
+
+Discord: Xyber Voltage#2683  
 # [Project Blue Rose](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**
 ![](https://user-images.githubusercontent.com/70616977/209552982-a74476ef-727d-44bf-9661-481823f33c02.jpg)
@@ -25,5 +29,5 @@ List created and maintained by yours truly as well.
 **My remake of my very first skin**
 ![](https://user-images.githubusercontent.com/70616977/209894288-dd07872c-efbf-4919-9980-dc74fece1458.jpg)
 # [FreeMod is EZ](https://www.mediafire.com/file/znxnpwbgm3eb3n3/%2523_FreeMod_is_EZ_%2528XV%2529_1.2.0.osk/file)
-**My first skin. A submission to the first offical osu! skinning contest**
+**My first skin. A submission to the first official osu! skinning contest**
 ![](https://user-images.githubusercontent.com/70616977/209896930-458c1a65-725f-46bc-8754-80e9e5e569d7.jpg)
