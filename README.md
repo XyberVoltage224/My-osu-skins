@@ -7,10 +7,16 @@ List created and maintained by yours truly as well.
 
 Discord: Xyber Voltage#2683  
 # [Project Blue Rose](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
-**Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**
+**Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**  
+
+**Customization for scorebars and cursors available**
+
 ![](https://user-images.githubusercontent.com/70616977/209552982-a74476ef-727d-44bf-9661-481823f33c02.jpg)
 # [Project Flowerful](https://www.mediafire.com/folder/4g9vin31nju89/Project+Flowerful+Collection)
 **Part of the Project Bandori Collection (Unofficial name for now). Pastel Palettes themed skin. 4 versions available**  
+
+**Customization for scorebars and cursors available**  
+
 ## [Classic (Direct Link)](https://www.mediafire.com/file/0u4zckt4rfcn0qj/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894062-aef6fc03-8e75-40a2-84d5-b86d92935aeb.jpg)
 ## [Gothic (Direct Link)](https://www.mediafire.com/file/ogck8514mf1hn83/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CGothic%25E3%2580%258D.osk/file)
