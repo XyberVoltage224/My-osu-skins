@@ -3,6 +3,8 @@
 
 All skins are made by yours truly (Xyber Voltage) unless stated otherwise. 
 
+This will be continuously updated as needed.  
+
 List created and maintained by yours truly as well.  
 
 Discord: Xyber Voltage#2683  
