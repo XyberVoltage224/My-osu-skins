@@ -9,14 +9,16 @@ This will be continuously updated as needed.
 
 Discord: **Xyber Voltage#2683**  
 
-# [Project Lucky Smile](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
+# [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)
+## [Alternate Link](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Hello, Happy World! themed skin**  
 
 **Customization for scorebars and cursors available**
 
 ![screenshot952](https://user-images.githubusercontent.com/70616977/210931401-6725537b-dbfc-48dc-81fd-093af72ffd5f.jpg)
 
-# [Project Blue Rose](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
+# [Project Blue Rose (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Blue%20Rose%20%E3%80%8CClassic%E3%80%8D.osk)
+## [Alternate Link](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**  
 
 **Customization for scorebars and cursors available**
@@ -27,16 +29,16 @@ Discord: **Xyber Voltage#2683**
 
 **Customization for scorebars and cursors available**  
 
-## [Classic (Direct Link)](https://www.mediafire.com/file/0u4zckt4rfcn0qj/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
+## [Classic](https://www.mediafire.com/file/0u4zckt4rfcn0qj/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894062-aef6fc03-8e75-40a2-84d5-b86d92935aeb.jpg)
 
-## [Gothic (Direct Link)](https://www.mediafire.com/file/ogck8514mf1hn83/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CGothic%25E3%2580%258D.osk/file)
+## [Gothic](https://www.mediafire.com/file/ogck8514mf1hn83/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CGothic%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894066-40ab0054-222d-451a-9e1c-070b98d267eb.jpg)
 
-## [New (Direct Link)](https://www.mediafire.com/file/1frpxuxuy3urrrr/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CNew%25E3%2580%258D.osk/file)
+## [New](https://www.mediafire.com/file/1frpxuxuy3urrrr/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CNew%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894065-eb336e44-9bd3-4939-b2fa-0533f9822e38.jpg)
 
-## [Maruyama (Direct Link)](https://www.mediafire.com/file/vhgcgj8coctcznl/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CMaruyama%25E3%2580%258D.osk/file)
+## [Maruyama](https://www.mediafire.com/file/vhgcgj8coctcznl/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CMaruyama%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894092-053129ef-72b9-4c43-b851-2932e096c973.jpg)
 
 # [Takasaki Yu 1.2 (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
