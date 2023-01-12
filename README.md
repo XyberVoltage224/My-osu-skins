@@ -57,6 +57,7 @@ Discord: **Xyber Voltage#2683**
 **My remake of my very first skin**
 ![](https://user-images.githubusercontent.com/70616977/209894288-dd07872c-efbf-4919-9980-dc74fece1458.jpg)
 
-# [FreeMod is EZ](https://www.mediafire.com/file/znxnpwbgm3eb3n3/%2523_FreeMod_is_EZ_%2528XV%2529_1.2.0.osk/file)
+# [FreeMod is EZ](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20FreeMod%20is%20EZ%20(XV)%201.2.0.osk)
+## [Alternate Link](https://www.mediafire.com/file/znxnpwbgm3eb3n3/%2523_FreeMod_is_EZ_%2528XV%2529_1.2.0.osk/file)
 **My first skin. A submission to the first official osu! skinning contest**
 ![](https://user-images.githubusercontent.com/70616977/209896930-458c1a65-725f-46bc-8754-80e9e5e569d7.jpg)
