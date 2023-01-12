@@ -39,15 +39,16 @@ Discord: **Xyber Voltage#2683**
 ## [Maruyama (Direct Link)](https://www.mediafire.com/file/vhgcgj8coctcznl/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CMaruyama%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894092-053129ef-72b9-4c43-b851-2932e096c973.jpg)
 
-# [Takasaki Yu 1.2](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
+# [Takasaki Yu 1.2 (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
 ## [Alternate Link](https://www.mediafire.com/file/umqts5r9842vcrq/%2523_%25C2%25ABTakasaki_Yu_%2528%25E9%25AB%2598%25E5%2592%25B2_%25E4%25BE%2591%2529_1.2_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209897369-4778a5e2-ecfd-40e2-bd01-d47616597802.jpg)
 
-# [Azure Aracde](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABAzure%20Arcade%20%5BXV%5D%C2%BB.osk)
+# [Azure Arcade (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABAzure%20Arcade%20%5BXV%5D%C2%BB.osk)
 ## [Alternate Link](https://www.mediafire.com/file/r7jar9num2b6re9/%2523_%25C2%25ABAzure_Arcade_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209899820-07302f3e-fc40-46bf-9a6a-ed17c344103d.jpg)
 
-# [Snow Halation 1.0](https://www.mediafire.com/file/7e76wg8ya9agsyw/%2523_%25C2%25ABSnow_halation_1.0_%255BXV%255D%25C2%25BB.osk/file)
+# [Snow Halation 1.0 (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABSnow%20halation%201.0%20%5BXV%5D%C2%BB.osk)
+## [Alternate Link](https://www.mediafire.com/file/7e76wg8ya9agsyw/%2523_%25C2%25ABSnow_halation_1.0_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209897162-f9ccb2a4-7dcc-43aa-a34c-1acc1077961e.jpg)
 
 # [FreeMod is EZ 2.1](https://www.mediafire.com/file/8wdxel77qmzmrv1/%2523_FreeMod_is_EZ_%2528v2.1%2529_%255BXV%255D.osk/file)
