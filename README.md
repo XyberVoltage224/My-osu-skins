@@ -44,6 +44,7 @@ Discord: **Xyber Voltage#2683**
 ![](https://user-images.githubusercontent.com/70616977/209897369-4778a5e2-ecfd-40e2-bd01-d47616597802.jpg)
 
 # [Azure Aracde](https://www.mediafire.com/file/r7jar9num2b6re9/%2523_%25C2%25ABAzure_Arcade_%255BXV%255D%25C2%25BB.osk/file)
+# [Alternate Link] (https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABAzure%20Arcade%20%5BXV%5D%C2%BB.osk)
 ![](https://user-images.githubusercontent.com/70616977/209899820-07302f3e-fc40-46bf-9a6a-ed17c344103d.jpg)
 
 # [Snow Halation 1.0](https://www.mediafire.com/file/7e76wg8ya9agsyw/%2523_%25C2%25ABSnow_halation_1.0_%255BXV%255D%25C2%25BB.osk/file)
