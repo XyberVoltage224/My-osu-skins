@@ -9,7 +9,7 @@ This will be continuously updated as needed.
 
 Discord: **Xyber Voltage#2683**  
 
-# [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)
+# [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)  | [Showcase](https://youtu.be/Wp_UfVQF5TI)
 ## [Alternate Link](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Hello, Happy World! themed skin**  
 
@@ -17,14 +17,14 @@ Discord: **Xyber Voltage#2683**
 
 ![screenshot952](https://user-images.githubusercontent.com/70616977/210931401-6725537b-dbfc-48dc-81fd-093af72ffd5f.jpg)
 
-# [Project Blue Rose (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Blue%20Rose%20%E3%80%8CClassic%E3%80%8D.osk)
+# [Project Blue Rose (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Blue%20Rose%20%E3%80%8CClassic%E3%80%8D.osk) | [Showcase](https://youtu.be/CJfuYo44Szo)
 ## [Alternate Link](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**  
 
 **Customization for scorebars and cursors available**
 
 ![](https://user-images.githubusercontent.com/70616977/209552982-a74476ef-727d-44bf-9661-481823f33c02.jpg)
-# [Project Flowerful (Collection Folder)](https://www.mediafire.com/folder/4g9vin31nju89/Project+Flowerful+Collection)
+# [Project Flowerful (Collection Folder)](https://www.mediafire.com/folder/4g9vin31nju89/Project+Flowerful+Collection) | [Showcase (main)](https://youtu.be/Mhcp6Hmetmk) | [Showcase (variants except for Maruyama and DT)](https://youtu.be/Bc6bQ8ZM-cY)
 **Part of the Project Bandori Collection (Unofficial name for now). Pastel Palettes themed skin. 4 versions available**  
 
 **Customization for scorebars and cursors available**  
@@ -39,10 +39,10 @@ Discord: **Xyber Voltage#2683**
 ## [New](https://www.mediafire.com/file/1frpxuxuy3urrrr/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CNew%25E3%2580%258D.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209894065-eb336e44-9bd3-4939-b2fa-0533f9822e38.jpg)
 
-## [Maruyama](https://www.mediafire.com/file/vhgcgj8coctcznl/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CMaruyama%25E3%2580%258D.osk/file)
+## [Maruyama](https://www.mediafire.com/file/vhgcgj8coctcznl/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CMaruyama%25E3%2580%258D.osk/file) | [Showcase](https://youtu.be/-BA4hwXNesE)
 ![](https://user-images.githubusercontent.com/70616977/209894092-053129ef-72b9-4c43-b851-2932e096c973.jpg)
 
-## [DT](https://www.mediafire.com/file/hgua69m5rjc2skv/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CDT%25E3%2580%258D.osk/file)
+## [DT](https://www.mediafire.com/file/hgua69m5rjc2skv/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CDT%25E3%2580%258D.osk/file) | [Preview (may modify later)](https://youtu.be/OqlkmuVgytA)
 ![](https://user-images.githubusercontent.com/70616977/212094034-34b62b05-b970-44ff-89fe-2580dcf8f2d3.jpg)
 
 # [Takasaki Yu 1.2 (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
