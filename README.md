@@ -16,7 +16,7 @@ Discord: **Xyber Voltage#2683**
 ## [Beta ver. (as featured in my Song I Am FC vid)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%20Beta%E3%80%8D.osk)
 ![screenshot980](https://user-images.githubusercontent.com/70616977/214033159-cef14ff1-3a07-407e-a43b-57ddcafc77c6.jpg)
 
-## [Jace NM ver.](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CJace%20NM%E3%80%8D.osk) | [Showcase](https://youtu.be/hHF9w-TwWBw)
+## [Jace NM ver.](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CJace%20NM%E3%80%8D.osk) | [Preview](https://youtu.be/hHF9w-TwWBw)
 
 ![screenshot981](https://user-images.githubusercontent.com/70616977/214035850-31bb4807-7b27-4548-8ac2-51c0707ad9ec.jpg)
 
