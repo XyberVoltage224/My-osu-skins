@@ -9,6 +9,11 @@ This will be continuously updated as needed.
 
 Discord: **Xyber Voltage#2683**  
 
+# [Antimonium]() | [Preview](https://youtu.be/S8dMXBRzl6A)
+**My non-weeb minimalist skin.**  
+
+![screenshot980](https://user-images.githubusercontent.com/70616977/214033159-cef14ff1-3a07-407e-a43b-57ddcafc77c6.jpg)
+
 # [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)  | [Showcase](https://youtu.be/Wp_UfVQF5TI)
 ## [Alternate Link](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection (Unofficial name for now). Hello, Happy World! themed skin**  
