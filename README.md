@@ -10,7 +10,7 @@ This will be continuously updated as needed.
 Discord: **Xyber Voltage#2683**  
 
 # Antimonium | [Preview](https://youtu.be/S8dMXBRzl6A)
-**My non-weeb minimalist skin.**  
+**My non-weeb minimalist skin. Interface inspired by okami's skins**  
 
 ## [Classic: soon] 
 [Beta ver. (as featured in my Song I Am FC vid)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%20Beta%E3%80%8D.osk)
