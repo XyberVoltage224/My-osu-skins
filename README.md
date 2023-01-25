@@ -12,7 +12,7 @@ Discord: **Xyber Voltage#2683**
 # Antimonium | [Preview](https://youtu.be/S8dMXBRzl6A)
 **My non-weeb minimalist skin. Interface inspired by okami's skins**  
 
-## [Classic: soon] 
+## [Classic (will make some edits later on)(main differences are reverse arrow and spinner)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%E3%80%8D.osk)
 ## [Beta ver. (as featured in my Song I Am FC vid)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%20Beta%E3%80%8D.osk)
 ![screenshot980](https://user-images.githubusercontent.com/70616977/214033159-cef14ff1-3a07-407e-a43b-57ddcafc77c6.jpg)
 
@@ -56,13 +56,18 @@ Discord: **Xyber Voltage#2683**
 ## [DT](https://www.mediafire.com/file/hgua69m5rjc2skv/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CDT%25E3%2580%258D.osk/file) | [Preview (may modify later)](https://youtu.be/OqlkmuVgytA)
 ![](https://user-images.githubusercontent.com/70616977/212094034-34b62b05-b970-44ff-89fe-2580dcf8f2d3.jpg)
 
-# [Takasaki Yu 1.2 (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
+# Takasaki Yu 1.2 
+## [Original ver. (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%20(%E9%AB%98%E5%92%B2%20%E4%BE%91)%201.2%20%5BXV%5D%C2%BB.osk)
 ## [Alternate Link](https://www.mediafire.com/file/umqts5r9842vcrq/%2523_%25C2%25ABTakasaki_Yu_%2528%25E9%25AB%2598%25E5%2592%25B2_%25E4%25BE%2591%2529_1.2_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209897369-4778a5e2-ecfd-40e2-bd01-d47616597802.jpg)
 
-# [Takasaki Yu 1.2 || haga1115 GP remake (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%201.2%20(haga)%20%5BXV%5D%C2%BB.osk) | [Preview](https://youtu.be/uD1goD18lYQ)
+## [haga1115 GP remake (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%201.2%20(haga)%20%5BXV%5D%C2%BB.osk) | [Preview](https://youtu.be/uD1goD18lYQ)
 ## [Alternate Link](https://www.mediafire.com/file/vys5izo8o2z3avz/%2523_%25C2%25ABTakasaki_Yu_1.2_%2528haga%2529_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/212095457-ff53e514-2ea7-4777-9bae-792817558b3f.jpg)
+
+## [HDDT ver. (Rafis GP remake)(Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%201.2%20(HDDT)%20%5BXV%5D%C2%BB.osk) | [Preview](https://youtu.be/SpQrJxRZC_o) | [Preview w/ HD](https://youtu.be/WK0aEL3_Bqo)
+
+![](https://user-images.githubusercontent.com/70616977/214596736-6674bbcb-42a8-440a-befb-398518cd58f8.jpg)
 
 # [Azure Arcade (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABAzure%20Arcade%20%5BXV%5D%C2%BB.osk)
 ## [Alternate Link](https://www.mediafire.com/file/r7jar9num2b6re9/%2523_%25C2%25ABAzure_Arcade_%255BXV%255D%25C2%25BB.osk/file)
