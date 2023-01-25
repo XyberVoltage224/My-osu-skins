@@ -60,7 +60,7 @@ Discord: **Xyber Voltage#2683**
 ## [Alternate Link](https://www.mediafire.com/file/umqts5r9842vcrq/%2523_%25C2%25ABTakasaki_Yu_%2528%25E9%25AB%2598%25E5%2592%25B2_%25E4%25BE%2591%2529_1.2_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/209897369-4778a5e2-ecfd-40e2-bd01-d47616597802.jpg)
 
-# [Takasaki Yu 1.2 || haga1115 GP remake (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/blob/master/%23%20%20%20%C2%ABTakasaki%20Yu%201.2%20(haga)%20%5BXV%5D%C2%BB.osk)
+# [Takasaki Yu 1.2 || haga1115 GP remake (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/%23%20%20%20%C2%ABTakasaki%20Yu%201.2%20(haga)%20%5BXV%5D%C2%BB.osk)
 ## [Alternate Link](https://www.mediafire.com/file/vys5izo8o2z3avz/%2523_%25C2%25ABTakasaki_Yu_1.2_%2528haga%2529_%255BXV%255D%25C2%25BB.osk/file)
 ![](https://user-images.githubusercontent.com/70616977/212095457-ff53e514-2ea7-4777-9bae-792817558b3f.jpg)
 
