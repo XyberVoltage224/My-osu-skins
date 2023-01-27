@@ -14,11 +14,16 @@ Discord: **Xyber Voltage#2683**
 
 ## [Classic](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%E3%80%8D.osk)
 ## [Beta ver. (as featured in my 'Song I Am' vid)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%20Beta%E3%80%8D.osk)
-![screenshot980](https://user-images.githubusercontent.com/70616977/214033159-cef14ff1-3a07-407e-a43b-57ddcafc77c6.jpg)
+![](https://user-images.githubusercontent.com/70616977/214033159-cef14ff1-3a07-407e-a43b-57ddcafc77c6.jpg)
 
 ## [Jace NM ver.](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CJace%20NM%E3%80%8D.osk) | [Preview](https://youtu.be/hHF9w-TwWBw)
 
-![screenshot981](https://user-images.githubusercontent.com/70616977/214035850-31bb4807-7b27-4548-8ac2-51c0707ad9ec.jpg)
+![](https://user-images.githubusercontent.com/70616977/214035850-31bb4807-7b27-4548-8ac2-51c0707ad9ec.jpg)
+
+## [rustbell cent ver.](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8Crustbell%20cent%E3%80%8D.osk)
+
+![](https://user-images.githubusercontent.com/70616977/215119065-2368d37b-c720-4b16-aaa1-0cd974ad2cfe.jpg)
+
 
 # [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)  | [Showcase](https://youtu.be/Wp_UfVQF5TI)
 ## [Alternate Link](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
@@ -88,4 +93,6 @@ Discord: **Xyber Voltage#2683**
 
 # Mixed Skins
 
-# [Matsubara Kanon (XV Edit) (will add pic soon)](https://www.mediafire.com/file/btnk38stllikmof/-%252BMatsubara_Kanon_%2528XV_edit%2529%252B-.osk/file)
+# [Matsubara Kanon (XV Edit)](https://www.mediafire.com/file/btnk38stllikmof/-%252BMatsubara_Kanon_%2528XV_edit%2529%252B-.osk/file)
+
+![](https://user-images.githubusercontent.com/70616977/215119414-c318a537-146b-4aec-85cf-ff21522a3f96.jpg)
