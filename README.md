@@ -21,7 +21,7 @@ Discord: **Xyber Voltage#2683**
 
 ![](https://user-images.githubusercontent.com/70616977/215275078-87d06d02-1dc6-4c97-9a03-9f21659ec7d0.jpg)
 
-# Antimonium | [Preview](https://youtu.be/S8dMXBRzl6A)
+# [Antimonium](https://github.com/XyberVoltage224/My-osu-skins#antimonium--preview) | [Preview](https://youtu.be/S8dMXBRzl6A)
 **My non-weeb minimalist skin. Interface inspired by okami's skins**  
 
 ## [Classic](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Antimonium%20%E3%80%8CClassic%E3%80%8D.osk)
