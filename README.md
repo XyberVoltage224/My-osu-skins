@@ -10,7 +10,7 @@ This will be continuously updated as needed.
 Discord: **Xyber Voltage#2683**  
 
 
-# [Project Scarlet Sky](https://github.com/XyberVoltage224/My-osu-skins/edit/master/README.md#project-scarlet-sky)
+# [Project Scarlet Sky](https://github.com/XyberVoltage224/My-osu-skins/blob/master/README.md#project-scarlet-sky)
 **Part of the Project Bandori Collection (Unofficial name for now). Afterglow themed skin**
 
 ## [Classic](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Scarlet%20Sky%20%E3%80%8CClassic%E3%80%8D.osk)
