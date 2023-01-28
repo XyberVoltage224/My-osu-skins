@@ -9,6 +9,18 @@ This will be continuously updated as needed.
 
 Discord: **Xyber Voltage#2683**  
 
+
+# [Project Scarlet Sky](https://github.com/XyberVoltage224/My-osu-skins/edit/master/README.md#project-scarlet-sky)
+**Part of the Project Bandori Collection (Unofficial name for now). Afterglow themed skin**
+
+## [Classic](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Scarlet%20Sky%20%E3%80%8CClassic%E3%80%8D.osk)
+
+![](https://user-images.githubusercontent.com/70616977/215275120-e96c2d5d-8730-4356-802c-51640757e1a9.jpg)
+
+## [Classic 1.1 (different cursor and less opaque hitcircle)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Scarlet%20Sky%20%E3%80%8CClassic%201.1%E3%80%8D.osk)
+
+![](https://user-images.githubusercontent.com/70616977/215275078-87d06d02-1dc6-4c97-9a03-9f21659ec7d0.jpg)
+
 # Antimonium | [Preview](https://youtu.be/S8dMXBRzl6A)
 **My non-weeb minimalist skin. Interface inspired by okami's skins**  
 
