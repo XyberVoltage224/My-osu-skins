@@ -1,7 +1,7 @@
 # Xyber Voltage osu skins
 **This is my repository for all the skins I use in this point-and-click rhythm game called osu! Hope you enjoy.**  
 
-All skins are made by yours truly (Xyber Voltage) unless stated otherwise. 
+All skins are made by yours truly (Xyber Voltage) unless stated otherwise (i.e. mixed skins/personal skin edits). 
 
 List created and maintained by yours truly as well.  
 
@@ -9,6 +9,7 @@ This will be continuously updated as needed.
 
 Discord: **Xyber Voltage#2683**  
 
+# Original Skins
 
 # [Project Scarlet Sky](https://github.com/XyberVoltage224/My-osu-skins/blob/master/README.md#project-scarlet-sky)
 **Part of the Project Bandori Collection (Unofficial name for now). Afterglow themed skin**
@@ -102,8 +103,9 @@ Discord: **Xyber Voltage#2683**
 **My first skin. A submission to the first official osu! skinning contest**
 ![](https://user-images.githubusercontent.com/70616977/209896930-458c1a65-725f-46bc-8754-80e9e5e569d7.jpg)
 
-# Mixed Skins
+# Mixed Skins/Edits (usually I take a skin and make/remake elements that I like and put them in the skin)
 
 # [Matsubara Kanon (XV Edit)](https://www.mediafire.com/file/btnk38stllikmof/-%252BMatsubara_Kanon_%2528XV_edit%2529%252B-.osk/file)
+## [Original skin (link from skins.osuck.net)](https://skins.osuck.net/skins/305?v=0)
 
 ![](https://user-images.githubusercontent.com/70616977/215119414-c318a537-146b-4aec-85cf-ff21522a3f96.jpg)
