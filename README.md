@@ -7,7 +7,7 @@ List created and maintained by yours truly as well.
 
 This will be continuously updated as needed.  
 
-Discord: **Xyber Voltage#2683**  
+Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitter instead)
 
 # Original Skins
 
