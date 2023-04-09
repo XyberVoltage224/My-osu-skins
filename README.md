@@ -117,3 +117,8 @@ Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitte
 ## [Original skin (link from skins.osuck.net)](https://skins.osuck.net/skins/305?v=0)
 
 ![](https://user-images.githubusercontent.com/70616977/215119414-c318a537-146b-4aec-85cf-ff21522a3f96.jpg)
+
+# [bocchi xyber edit](https://www.mediafire.com/file/9cjoszxt7yxn16d/%2523_bocchi_xyber_edit.osk/file)
+## [Original skin: bocchi dt rafis (link taken from ryuk skin github)](https://mega.nz/file/ZC4VmJ5J#6S83-maoBkQJU1m52HaYcs068oIT7t2TiNVMRxipULE)
+
+![](https://user-images.githubusercontent.com/70616977/230776367-cec1e10a-07b2-468e-bb46-911cbefa356b.jpg)
