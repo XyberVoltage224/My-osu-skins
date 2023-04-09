@@ -12,12 +12,12 @@ Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitte
 # Original Skins
 
 # [Project Poppin' Stage](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Poppin'%20Stage%20%E3%80%8CClassic%E3%80%8D.osk)
-**Part of the Project Bandori Collection (Unofficial name for now). Poppin' Party themed skin**
+**Part of the Project Bandori Collection. Poppin' Party themed skin**
 
 ![](https://user-images.githubusercontent.com/70616977/225883855-e9b023a2-968a-4060-9c03-4f90ef2ca884.jpg)
 
 # [Project Scarlet Sky](https://github.com/XyberVoltage224/My-osu-skins/blob/master/README.md#project-scarlet-sky)
-**Part of the Project Bandori Collection (Unofficial name for now). Afterglow themed skin**
+**Part of the Project Bandori Collection. Afterglow themed skin**
 
 ## [Classic](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Scarlet%20Sky%20%E3%80%8CClassic%E3%80%8D.osk)
 
@@ -44,7 +44,7 @@ Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitte
 
 # [Project Lucky Smile](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Lucky%20Smile%20%E3%80%8CClassic%E3%80%8D.osk)  | [Showcase](https://youtu.be/Wp_UfVQF5TI)
 ## [Alternate Link](https://www.mediafire.com/file/wcg4tk9mudzgitc/-__%25E3%2580%2596XV%25E3%2580%2597Project_Lucky_Smile_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
-**Part of the Project Bandori Collection (Unofficial name for now). Hello, Happy World! themed skin**  
+**Part of the Project Bandori Collection. Hello, Happy World! themed skin**  
 
 **Customization for scorebars and cursors available**
 
@@ -52,17 +52,20 @@ Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitte
 
 # [Project Blue Rose (Direct DL)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Blue%20Rose%20%E3%80%8CClassic%E3%80%8D.osk) | [Showcase](https://youtu.be/CJfuYo44Szo)
 ## [Alternate Link](https://www.mediafire.com/file/ob6d707nylr64na/-__%25E3%2580%2596XV%25E3%2580%2597Project_Blue_Rose_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
-**Part of the Project Bandori Collection (Unofficial name for now). Roselia themed, gothic/flat skin**  
+**Part of the Project Bandori Collection. Roselia themed, gothic/flat skin**  
 
 **Customization for scorebars and cursors available**
 
 ![](https://user-images.githubusercontent.com/70616977/209552982-a74476ef-727d-44bf-9661-481823f33c02.jpg)
-# [Project Flowerful (Collection Folder)](https://www.mediafire.com/folder/4g9vin31nju89/Project+Flowerful+Collection) | [Showcase (main)](https://youtu.be/Mhcp6Hmetmk) | [Showcase (variants except for Maruyama and DT)](https://youtu.be/Bc6bQ8ZM-cY)
-**Part of the Project Bandori Collection (Unofficial name for now). Pastel Palettes themed skin. 4 versions available**  
+# [Project Flowerful (Collection Folder)](https://www.mediafire.com/folder/4g9vin31nju89/Project+Flowerful+Collection) | [Showcase (main)](https://youtu.be/YC7uoTMcef8) | [Showcase (variants except for Maruyama and DT)](https://youtu.be/Bc6bQ8ZM-cY)
+**Part of the Project Bandori Collection. Pastel Palettes themed skin. Multiple versions available**  
 
 **Customization for scorebars and cursors available**  
 
-## [Classic](https://www.mediafire.com/file/0u4zckt4rfcn0qj/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
+## [Classic NM1 (Anniversary Update) Screenshot coming soon](https://www.mediafire.com/file/4wormk3t2zxy1nd/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic_NM1%25E3%2580%258D.osk/file)
+
+## [Classic NM2 (Anniversary Update) Screenshot coming soon](https://www.mediafire.com/file/207eympkj52onmu/-__%25E3%2580%2596XV%25E3%2580%2597Project%25E2%259C%25BDFlowerful_%25E3%2580%258CClassic_NM2%25E3%2580%258D.osk/file)
+
 ## [Lite version (Direct DL, no menu-animation)](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%E2%9C%BDFlowerful%20%E3%80%8CClassic%20Lite%E3%80%8D.osk)
 ![](https://user-images.githubusercontent.com/70616977/209894062-aef6fc03-8e75-40a2-84d5-b86d92935aeb.jpg)
 
