@@ -11,7 +11,7 @@ Discord: **Xyber Voltage#2683**  (inactive for now. Contact me on osu! or twitte
 
 # Original Skins
 
-# [Project Poppin' Stage](https://github.com/XyberVoltage224/My-osu-skins/raw/master/-%20%20%E3%80%96XV%E3%80%97Project%20Poppin'%20Stage%20%E3%80%8CClassic%E3%80%8D.osk)
+# [Project Poppin' Stage](https://www.mediafire.com/file/p5rki0lzyqiwvbr/-__%25E3%2580%2596XV%25E3%2580%2597Project_Poppin%2527_Stage_%25E3%2580%258CClassic%25E3%2580%258D.osk/file)
 **Part of the Project Bandori Collection. Poppin' Party themed skin**
 
 ![](https://user-images.githubusercontent.com/70616977/225883855-e9b023a2-968a-4060-9c03-4f90ef2ca884.jpg)
