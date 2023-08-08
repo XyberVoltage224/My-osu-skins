@@ -1,13 +1,13 @@
 # Xyber Voltage osu skins
-**This is my repository for all the skins I use in this point-and-click rhythm game called osu! Hope you enjoy.**  
+**This is my repository for all the skins Xyber Voltage uses in this point-and-click rhythm game called osu! Hope you enjoy.**  
 
-All skins are made by Xyber Voltage unless stated otherwise (i.e. mixed skins/personal skin edits). 
+All skins are made by him unless stated otherwise (i.e. mixed skins/personal skin edits). 
 
-List created and maintained by yours truly as well.  
+List originally created by Xyber Voltage, currently maintained by LunarStryfe.  
 
 This will be continuously updated as needed.  
 
-Discord: **LunarStryfe (@lunarstryfe, New owner/manager)**
+Discord: **@lunarstryfe (new owner/manager)**  
 
 # Original Skins
 
