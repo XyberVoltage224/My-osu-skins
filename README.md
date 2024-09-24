@@ -1,11 +1,14 @@
-# Xyber Voltage osu skins
-**This is my repository for all the skins I use in this point-and-click rhythm game called osu! Hope you enjoy.**  
+# Xyber Voltage osu! skin list
+
+# [UPDATED SKIN LIST HERE](https://gist.github.com/XyberVoltage224/b66b54b22b9c3ef01ac221ad7193e453) 
+
+**This is a list of ~~all~~ the skins I use in this point-and-click rhythm game called osu! Hope you enjoy.**    
 
 All skins are made by me unless stated otherwise (i.e. mixed skins/personal skin edits).
 
-List created and maintained by me, however I have retired from playing and skinning.
+~~List created and maintained by me, however I have retired from playing and skinning~~.
 
-This will be continuously updated as needed. 
+~~This will be continuously updated as needed.~~ Check above link.
 
 # Original Skins
 
